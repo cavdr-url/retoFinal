@@ -1,0 +1,33 @@
+/* Importar fuentes de Google */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@400;700&display=swap');
+
+/* Fondo negro para el body */
+body {
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Div centrado */
+div {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: white;
+    padding: 20px;
+}
+
+/* Listas con color amarillo y fuente atractiva */
+ul {
+    color: #ffd700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+    display: inline-block;
+    margin-top: 20px;
+    padding-left: 20px;
+}
